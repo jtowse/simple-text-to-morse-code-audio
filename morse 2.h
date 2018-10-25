@@ -1,4 +1,6 @@
 //#include<string.h>
+//written by john towse in 2018/10/25 All right reserved.
+//include this header file into the code in order to convert a singal char into stirng of morse code
 char *morse(char test, char mors[]);
 
 char *morse(char test, char mors[]){
